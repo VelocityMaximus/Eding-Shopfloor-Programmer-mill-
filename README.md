@@ -1,4 +1,4 @@
-# EdingCNC Shopfloor Programmer for millingmachines
+# EdingCNC Shopfloor Programmer for Eding CNC based millingmachines
 
 A tool to easy make simple shapes programmed on the machine.
 
